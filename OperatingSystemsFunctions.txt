@@ -4,4 +4,7 @@ Coordinate softwares and users
 Control system performance 
 Secure the system
 Start and shut down the devices
-Manage memory
+Manage the memory
+Manage the processor
+Manage the device
+Establish a user interface
