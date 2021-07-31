@@ -1,4 +1,0 @@
-An operating system has main important functions:
-- Manage the device's resources
-- Coordinate softwares and users 
-- Control system performance 
